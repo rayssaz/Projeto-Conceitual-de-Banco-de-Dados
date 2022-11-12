@@ -1,7 +1,5 @@
 # Projeto-Conceitual-de-Banco-de-Dados
-Desenvolvendo a primeira etapa da Modelagem de Banco de Dados, chamada de Projeto Conceitual, onde vamos analisar o problema e definir as entidades e objetos que devem ser criados, além do relacionamento entre eles. 
-
-A ferramenta utilizada para a realização dessa tarefa é o MySQL WorkBench.
+Para iniciar a Modelagem de Banco de Dados, foi produzido um Projeto Conceitual a partir da narrativa fornecida. Desse modo, foram criadas todas as entidades, relacionamentos e atributos utilizando o MySQL WorkBench.
 
 ## Levantamento de Requisitos 
 ### Narrativa – Produto
