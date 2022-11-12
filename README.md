@@ -21,7 +21,8 @@ A ferramenta utilizada para a realização dessa tarefa é o MySQL WorkBench.
 * O pedido pode ser cancelado.
 
 ### Narrativa – Fornecedor e Estoque
-
+* Os fornecedores só podem ser a própria empresa, a que fornece os recursos e não os vendedores;
+* Os produtos podem estar em estoques distintos e podemos ter uma quantidade diferente de produtos para o mesmo estoque. Podemos criar um relacionamento de quantidade entre o produto e o estoque.
 
 ## Objetivo:
 * Refinar o modelo apresentado acrescentando os seguintes pontos:
